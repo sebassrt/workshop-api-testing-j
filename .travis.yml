@@ -11,4 +11,4 @@ branches:
  except:
  - /^v\d+\.\d+\.\d+$/
 env:
- - MY_ENVIRONMENT_VARIABLE:"my value"
+ - MY_ENVIRONMENT_VARIABLE="my value"
